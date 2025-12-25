@@ -1,6 +1,8 @@
 USE AdventureWorks2025
 SELECT * FROM Production.Product
 SELECT * FROM Sales.SalesOrderDetail
+SELECT * FROM Production.ProductSubcategory
+SELECT * FROM Production.ProductCategory
 
 SELECT
     TOP 10
