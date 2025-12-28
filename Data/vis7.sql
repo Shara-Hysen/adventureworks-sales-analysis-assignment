@@ -4,7 +4,7 @@ SELECT * FROM Sales.SalesOrderHeader
 SELECT * FROM Sales.Customer
 SELECT * FROM Sales.Store
 
--- Gjorde först en Query med AVG men insåg att det var bättre med råa aggregator, så använde inte denna
+-- Gjorde först en Query med AVG men insåg att det var bättre att få med mer info till analysen, så använde inte denna
 SELECT
     st.Name AS RegionName,
     CASE 
