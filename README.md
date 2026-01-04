@@ -28,21 +28,22 @@ Python version 3.13.7
 
 ## Installation och körning  
 
-1. **Klona repo:** 
+1. **Klona repo:**  
+
 git clone https://github.com/Shara-Hysen/adventureworks-sales-analysis-assignment.git
 
-2. **Skapa och aktivera virtuell miljö:**
-python -m venv .venv
-.venv\Scripts\Activate # Windows
-source .venv/bin/activate # Linux/macOS
+2. **Skapa och aktivera virtuell miljö:**    
+python -m venv .venv    
+.venv\Scripts\Activate # Windows    
+source .venv/bin/activate # Linux/macOS   
 
-3. **Installera beroenden:** 
-pip install -r requirements.txt
+3. **Installera beroenden:**  
+pip install -r requirements.txt  
 
-4. **Kör Jupyter Notebook:** 
-jupyter notebook analysis.ipynb
+4. **Kör Jupyter Notebook:**    
+jupyter notebook analysis.ipynb  
 
 
-## Källor
+## Källor  
 
 Projektet är utvecklat som en examinationsuppgift med utgångspunkt i kursmaterial och laborationer, med stöd av AI-verktyg för kodoptimering
