@@ -29,7 +29,6 @@ Python version 3.13.7
 ## Installation och körning  
 
 1. **Klona repo:**  
-
 git clone https://github.com/Shara-Hysen/adventureworks-sales-analysis-assignment.git
 
 2. **Skapa och aktivera virtuell miljö:**    
