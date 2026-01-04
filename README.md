@@ -9,7 +9,7 @@ Detta projekt analyserar försäljningsdata från AdventureWorks med fokus på r
 1. **Grundläggande visualiseringar (7 delar)**  
 Varje del innehåller en affärsfråga, en tydlig plan, SQL-fråga, visualisering och analys.
 2. **Djupanalys - Regional försäljningsoptimering**  
-Innehåller en affärsfrågor, planer, SQL-frågor, visualiseringar och djupare analys.
+Innehåller affärsfrågor, planer, SQL-frågor, visualiseringar och djupare analys.
 3. **Reflektion och slutsats**  
 Redogör för valda metoder och visualiseringar, samt utmaningar och lärdomar från arbetet.  
 Ger rekommendationer för företaget baserat på analyserna.
